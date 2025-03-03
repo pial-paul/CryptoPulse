@@ -25,7 +25,8 @@ CryptoPulse is a JavaScript project that fetches and displays live cryptocurrenc
 3. **Enjoy real-time crypto updates!**  
 
 ## 📷 Screenshot  
-![CryptoPulse Screenshot](screenshot.png)  
+![image](https://github.com/user-attachments/assets/0c47e163-437c-47e7-b3e5-d495480be407)
+ 
 
 ## 🤝 Contributing  
 Feel free to contribute by submitting a pull request or reporting issues!  
