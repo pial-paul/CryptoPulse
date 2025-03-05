@@ -18,7 +18,7 @@ CryptoPulse is a JavaScript project that fetches and displays live cryptocurrenc
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/CryptoPulse.git
+   git clone https://github.com/pial-paul/CryptoPulse.git
    cd CryptoPulse
    ```
 2. **Open `index.html` in a browser**  
